@@ -1,0 +1,7 @@
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\bin\Release\paiza.exe
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\bin\Release\paiza.pdb
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\obj\x86\Release\paiza.MainFrame.resources
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\obj\x86\Release\paiza.Properties.Resources.resources
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\obj\x86\Release\paiza.csproj.GenerateResource.Cache
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\obj\x86\Release\paiza.exe
+C:\Users\zhanglz\documents\visual studio 2010\Projects\paiza\paiza\obj\x86\Release\paiza.pdb
